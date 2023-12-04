@@ -1081,10 +1081,12 @@ aside ul li:hover {
 
 .contact-form-container {
     max-width: 1046px;
+    
     background-color: #c3c019;
     padding: 85px; /* AUMENTAR A AREA DO FORMULARIO */
     border-radius: 1px;
-    margin: auto;
+    width: 100%;
+    margin: 0;
     height: 75vh; /*altura do formulario */
 }
 
